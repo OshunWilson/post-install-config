@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J45hV2v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Roles
@@ -41,7 +41,7 @@ b. Supreme Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PaVFXq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments
@@ -53,7 +53,7 @@ b. System Administrators
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8ZHAzps.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Configure Teams
@@ -65,7 +65,7 @@ b. System Administrators
   2. Level II Support
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nb6g2oW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets 
@@ -76,7 +76,7 @@ b. Registration Required: Require registration and login to create tickets  
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dgQh541.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Agents (workers) - 
@@ -86,7 +86,7 @@ Admin Panel -> Agents -> Add New
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UNVgncW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Users (customers) 
@@ -98,7 +98,7 @@ Agent Panel -> Users -> Add New
 <br />
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QqI8mAM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure SLA
@@ -113,7 +113,7 @@ Admin Panel -> Manage -> SLA
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3TrjB0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Help Topics
