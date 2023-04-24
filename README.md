@@ -110,6 +110,7 @@ Admin Panel -> Manage -> SLA
     2. Sev-B (4 hours, 24/7)
   
     3. Sev-C (8 hours, business hours)
+  SLA Plan is to provide a length of time in which the help desk Admin expects tickets to be closed.
 </p>
 <br />
 <p>
