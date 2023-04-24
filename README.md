@@ -105,12 +105,13 @@ Configure SLA
   
 Admin Panel -> Manage -> SLA
   
-    1. Sev-A (1 hour, 24/7)
+1. Sev-A (1 hour, 24/7)
   
-    2. Sev-B (4 hours, 24/7)
+2. Sev-B (4 hours, 24/7)
   
-    3. Sev-C (8 hours, business hours)
-  SLA Plan is to provide a length of time in which the help desk Admin expects tickets to be closed.
+3. Sev-C (8 hours, business hours)
+  
+SLA (Service Level Agreement) Plan is to provide a length of time in which the help desk Admin expects tickets to be closed.
 </p>
 <br />
 <p>
